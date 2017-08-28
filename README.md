@@ -1,2 +1,2 @@
 # node-web-server
-NodeJS Web Server from Udemy course
+NodeJS/Express Web Server from Udemy course
